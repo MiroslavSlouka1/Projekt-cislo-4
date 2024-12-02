@@ -1,7 +1,7 @@
 # Engeto-4-projekt
 Čtvrtý projekt na Python Akademii od Engeta
 ## Popis projektu
-V tomto projetu vytářím databázové tabulky a SQL scripty pro zodpovězení výzkumných otázek.
+V tomto projektu vytvářím databázové tabulky a SQL scripty pro zodpovězení výzkumných otázek.
 ## Vytvoření tabulek
 V krocích 1 až 4 se vytvoří tabulka ```t_Miroslav_Slouka_project_SQL_primary_final```  
 
