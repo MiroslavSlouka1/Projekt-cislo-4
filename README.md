@@ -33,7 +33,7 @@ Otázka číslo 2: Kolik je možné si koupit litrů mléka a kilogramů chleba 
 
     Nejméně mléka si mohlo v roce 2006 Q1 zakoupit odvětví	"Ubytování, stravování a pohostinství" - 735 litrů
     
-    Nejméně cleba si mohlo v roce 2006 Q1 zakoupit odvětví	"Ubytování, stravování a pohostinství" - 710 kilogramů
+    Nejméně chleba si mohlo v roce 2006 Q1 zakoupit odvětví	"Ubytování, stravování a pohostinství" - 710 kilogramů
 
 Otázka číslo 3: Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 
