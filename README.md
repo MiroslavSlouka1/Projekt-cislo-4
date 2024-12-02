@@ -35,6 +35,12 @@ Otázka číslo 2: Kolik je možné si koupit litrů mléka a kilogramů chleba 
     
     Nejméně cleba si mohlo v roce 2006 Q1 zakoupit odvětví	"Ubytování, stravování a pohostinství" - 710 kilogramů
 
+Otázka číslo 3: Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+
+    Nejméně zdražila Rajská jablka červená kulatá v roce 207
+
+Otázka číslo 4: Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)? 
+
 
 
     
