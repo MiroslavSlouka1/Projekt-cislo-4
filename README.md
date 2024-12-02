@@ -43,6 +43,6 @@ Otázka číslo 4: Existuje rok, ve kterém byl meziroční nárůst cen potravi
 
     V roce 2007 byl nárůst cen potravin výrazně vyšší než růst mezd. 
 
-Otázka číslo 5: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?     
+Otázka číslo 5: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?     
 
     HDP má vliv na mzdy u některých odvětví a ceny potravin.
