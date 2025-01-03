@@ -231,7 +231,7 @@ ON
 WHERE 
     q1.previous_year IS NOT NULL
     AND q2.previous_year IS NOT NULL 
-ORDER BY difference_value DESC
+ORDER BY `year`
 
    
 
