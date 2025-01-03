@@ -111,7 +111,7 @@ FROM
     question1
 WHERE 1=1
     AND previous_year IS NOT NULL
-ORDER BY difference_payroll;
+ORDER BY `year`;
 
        
 -- otázka č.2 --
