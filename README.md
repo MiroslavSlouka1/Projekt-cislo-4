@@ -9,32 +9,18 @@ V kroku 2 se vytvoří tabulka ```t_miroslav_slouka_project_SQL_secondary_final`
 ## Výstupy výzkumných otázek
 Otázka číslo 1: Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
-Seznam odvětví kde mzda nejvíce klesala:
-
-    2013 Q4	Peněžnictví a pojišťovnictví
-
-    2013 Q4	Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu
-
-    2013 Q1	Peněžnictví a pojišťovnictví
-
-    2020 Q2	Ubytování, stravování a pohostinství
-
-    2020 Q2  Činnosti v oblasti nemovitostí
-
-    2020 Q1	Činnosti v oblasti nemovitostí
-
-    2010 Q1	Profesní, vědecké a technické činnosti
+    Ve všech sledovaných odvětvích mzda rostla. 
 
 Otázka číslo 2: Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 
-    Nejvíce mléka si mohlo v roce 2006 Q1 zakoupit odvětví	"Peněžnictví a pojišťovnictví" -  3 054 litrů
+    V roce 2006 si zákazníci za průměrnou mzdu mohli koupit 1 408 litrů mléka.
     
-    Nejvíce chleba si mohlo v roce 2006 Q1 zakoupit odvětví	"Peněžnictví a pojišťovnictví" -  2 949 kilogramů 
+    V roce 2006 si zákazníci za průměrnou mzdu mohli koupit 1 261 kilogramů chleba.
 
-    Nejméně mléka si mohlo v roce 2006 Q1 zakoupit odvětví	"Ubytování, stravování a pohostinství" - 735 litrů
-    
-    Nejméně chleba si mohlo v roce 2006 Q1 zakoupit odvětví	"Ubytování, stravování a pohostinství" - 710 kilogramů
+    V roce 2018 si zákazníci za průměrnou mzdu mohli koupit 1 613 litrů mléka.
 
+    V roce 2018 si zákazníci za průměrnou mzdu mohli koupit 1 319 kilogramů chleba.
+   
 Otázka číslo 3: Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 
     Nejméně zdražila Rajská jablka červená kulatá v roce 2007
