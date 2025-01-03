@@ -3,9 +3,9 @@
 ## Popis projektu
 V tomto projektu vytvářím databázové tabulky a SQL scripty pro zodpovězení výzkumných otázek.
 ## Vytvoření tabulek
-V krocích 1 až 4 se vytvoří tabulka ```t_Miroslav_Slouka_project_SQL_primary_final```  
+V kroku 1 se vytvoří tabulka ```t_Miroslav_Slouka_project_SQL_primary_final```  
 
-V kroku 5 se vytvoří tabulka ```t_miroslav_slouka_project_SQL_secondary_final```
+V kroku 2 se vytvoří tabulka ```t_miroslav_slouka_project_SQL_secondary_final```
 ## Výstupy výzkumných otázek
 Otázka číslo 1: Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
