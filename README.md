@@ -31,4 +31,4 @@ Otázka číslo 4: Existuje rok, ve kterém byl meziroční nárůst cen potravi
 
 Otázka číslo 5: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?     
 
-    HDP má vliv na mzdy u některých odvětví a ceny potravin.
+    HDP má vliv na mzdy a ceny potravin.
